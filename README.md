@@ -19,7 +19,7 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 
 ## Tools
 
-python 
+Jupyter 
 
 ## Data cleaning 
 
